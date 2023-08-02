@@ -12,6 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenBlesson&layout=pie)](https://github.com/AllenBlesson/github-readme-stats)
 
-<figure><embed src="https://wakatime.com/share/@AllenBlesson/02c734ca-618b-4289-a106-d877897ece5f.svg"></embed></figure>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenBlesson)](https://github.com/AllenBlesson/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
